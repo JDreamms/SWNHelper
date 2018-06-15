@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Ethnicity_array">
+        <item>Arabic</item>
+        <item>Chinese</item>
+        <item>English</item>
+        <item>Greek</item>
+        <item>Indian</item>
+        <item>Japanese</item>
+        <item>Latin</item>
+        <item>European</item>
+        <item>Russian</item>
+        <item>Spanish</item>
+        <item>West African</item>
+    </string-array>
+
+
+</resources>
